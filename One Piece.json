@@ -1,0 +1,17 @@
+{
+  "title": "One Piece",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1649687368",
+      "groups": {
+        "": "https://ww8.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-001/"
+      }
+    }
+  }
+}
